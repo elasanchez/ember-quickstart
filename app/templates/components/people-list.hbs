@@ -1,0 +1,11 @@
+<!-- title is an attribute that can be set dynamically -->
+<h2>{{title}}</h2>
+
+<ul>
+  <!-- #each is a loop helper, people takes in the model -->
+  {{#each people as |person|}}
+    <!-- - <li>{{person}}</li> -->
+    <!-- using action helper to call showPerson in Components -->
+    <li {{action "showPerson" person}}>{{person}}</li>
+  {{/each}}
+</ul>
