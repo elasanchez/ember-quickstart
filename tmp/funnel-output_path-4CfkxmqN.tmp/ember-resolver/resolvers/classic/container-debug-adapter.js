@@ -1,0 +1,1 @@
+/Users/luigi/Dev/ember-quick-start/ember-quickstart/tmp/funnel-input_base_path-SRr6kvFU.tmp/resolvers/classic/container-debug-adapter.js

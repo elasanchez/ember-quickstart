@@ -1,0 +1,1 @@
+/Users/luigi/Dev/ember-quick-start/ember-quickstart/tmp/funnel-input_base_path-rAHm6I5e.tmp/app.js
