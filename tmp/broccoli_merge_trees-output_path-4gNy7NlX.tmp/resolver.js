@@ -1,1 +1,0 @@
-/Users/luigi/Dev/ember-quick-start/ember-quickstart/app/resolver.js

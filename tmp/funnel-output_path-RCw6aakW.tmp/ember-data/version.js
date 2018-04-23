@@ -1,1 +1,0 @@
-/Users/luigi/Dev/ember-quick-start/ember-quickstart/tmp/creator-output_path-LWGSTZed.tmp/version.js
